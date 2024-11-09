@@ -2,5 +2,5 @@
 name = the_culture_war
 path = N:\maxplb\Documents/My Games/democracy4/mods/the_culture_war
 guiname = The Culture War
-author = Duke of Prunes
-description = test
+author = Duke of Prunes, Saint
+description = What's going on in your voters' minds? What do they feel? What do they believe in? Any *really* bad ideas? (Now now, what does communism have to do with anything?) What are they talking about? What do they fight about? Why do they fight? Did history teach us anything?
