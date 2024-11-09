@@ -1,0 +1,6 @@
+[config]
+name = the_culture_war
+path = N:\maxplb\Documents/My Games/democracy4/mods/the_culture_war
+guiname = The Culture War
+author = Duke of Prunes
+description = test

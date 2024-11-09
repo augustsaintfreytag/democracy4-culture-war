@@ -1,0 +1,158 @@
+[list][*]15+ new simulations
+[*]30+ new situations
+[*]70+ overrides
+[*]more to come[/list]
+What's going on in your voters' minds? What do they feel? What do they believe in? Any REALLY bad ideas? [i](Now now, what does communism have to do with anything??)[/i] What are they talking about? What do they fight about? Why do they fight? Did history teach us anything?
+
+[b]WORK IN PROGRESS - UPDATES EVERY MONDAY UNLESS NOT SAVE-BREAKING CHANGES[/b]
+
+[b] Simulations: [/b][list]
+
+[*] Culture (beta)
+[*] Local Communities
+[*] Bureaucratic Knowledge
+[*] Gender Tension
+[*] Single Parents
+[*] Stay-at-Home Parents
+
+ - Tracker - Negative Emotions (Situation Group)
+[*]Paranoia
+[*]Fear
+[*]Disgust
+[*]Envy
+[*]Anger
+[*]Anxiety
+
+- Tracker - Attitude Delta (Simulation Group)(beta)
+[*]Competitiveness
+[*]Cooperativeness
+[/list]
+
+[b] Situations:[/b][list]
+
+[*]Twentieth-Century Trauma (soon to be split and expanded into Modern Era\World Wars Era\Cold War Era Traumas)
+[*]Radical Identity Politics
+[*]Critical Race Theory
+[*]Critical Gender Theory
+[*]Woke Washing
+[*]Trophy Syndrome
+[*]Fat Acceptance (beta)
+[*]Functional Illiteracy (beta)
+[*]Complotism
+[*]New Age Movements (beta)
+[*]Green Washing
+[*]Degrowth Doctrine (beta)
+[*]PSA Fatigue
+[*]Slow Justice (beta)
+[*]Quiet Quitting (beta)
+[*]Luxury Beliefs (alpa)
+
+- Tracker - Cultures and Countercultures (Situation Group)(alpha)
+[*]Individualism
+[*]Collectivism
+[*]Moralism
+[*]Nihilism
+[*]Hedonism
+[*]Prohibitionism
+[*]Stoicism
+[*]Neuroticism
+[*]Scientistm
+[*]Superstition
+[*]Authoritarianism
+[*]Anarchism 
+[*]Isolationism
+[*]Globalism
+[*]Militarism
+[*]Pacifism
+
+[*]Pragmatism
+[*]Ideologism
+
+[/list]National Cultural Heritages (beta):[list]
+
+ - Working:
+[*]Germany
+[*]Canada
+[*]South Korea
+[*]UK
+[*]EU (will trigger if country is tagged as EU but not with its own tag, eg vanilla Italy, France, Spain)
+
+ - Needs tagged mod:
+[*]Italy ( https://steamcommunity.com/sharedfiles/filedetails/?id=2862298096 )
+[*]USA
+[*]China
+[*]France
+[*]Russia
+
+ - Either future-proof or needs tagged mod:
+[*]Brazil
+[*]Switzerland
+[*]Turkey
+[*]Poland
+
+- you're welcome to write in the discussions which tagged mod you've found, I'll list them up here
+- technical note for mission modders: I'm talking about the _prereq_[country] thing
+[/list]
+
+---
+[b]Coming soon - priority ordered (may make a separate mod for some of these and some of the already implemented stuff, keep reading to know more):
+[list]
+- Simulations
+[*]Mediatic Violence
+[*]Internet Neutrality
+
+- Situations
+[*]Hookup Culture
+[*]Abortion Conscientious Objectors
+[*]Absenteeism
+[*]ADHD Epidemic
+[*]Creator Economy
+[*]Planned Obsolescence
+
+- Cultures and Countercultures
+x
+
+- Other groups:
+[*]Positive Emotions
+[*]Dark Triad(this may be too wishful)
+[/list][/b]
+---
+Long term goals:
+
+- more weird stuff right-wingers and "right-wingers" do, cause I'm not trying to be b[i][b]i[/b][/i]ased, that's the main point of this mod
+- probably more weird stuff "left-wingers" do
+- some form of referendum mechanic: civil rights, narcotics, fission energy, eu membership, who knows (I'm testing this in my Italy mod)
+- as stated above, maybe break down and expand 20th Century Trauma into modernity\world wars\cold war traumas
+- this mod will eventually split into at least 3 more; Geography, Infrastructure and Trade --- 21th Century Challenges --- Growth and Demography (this one already exist in its early stage; https://steamcommunity.com/sharedfiles/filedetails/?id=2857163779 )
+-An additional mod to interface these ones with the best mods around, and a mod to collect fix and update all the good but obsolete ones that are around
+-at some point I'll test the viability of a "hidden neurons" mod; this game is all good and fun until you realize some of the worst problem are the ones you don't realize you have. What if you didn't actually know how much crime you have going on? What if you were leaking money? What if ya mum ran on batteries? Doesn't it sound like fun??
+- i wonder if i can build an oscillator into the game, lol
+- [b]some policies, yeah I know[/b]
+- write the descriptions and make the icons (would appreciate a hand with the latter), I guess
+- i'm thinking about it
+
+
+--
+daddy cliffski pls give us modders:
+
+- more flexibility and reliability for the Equation Processor
+- more modding documentation in general
+- ??? what's up with global, freq and perc?? What's the difference?
+(I think I figured it out, perc for causes and freq as a y in effects, but this NEEDS to be mentioned in the guide)
+- whatever PARAdoxiBLE asks for
+- just more moddable stuff - on that note - again, why don't all vanilla countries have their own tag?
+- load order may be important at that point i guess
+- more blog rants
+- neuron groups: eg mode of transport, energy mix, earnings distribution, demography etc; perhaps sharing a pie chart if appropriate; not even necessarily anything functionally different, but it would at least de-clutter the UI and present data better.
+(I'm managing ("Trackers") by using a situation (to make it stand out...) to group NOICON simulations\situations)
+- neutral\misc (yellow?) situations and MIDGOOD simulations tags
+- i'm thinking about you
+
+
+--
+yup those in the pic are jb peterson and aoc having a pillow fight, thanks midjourney even if I used all my trial minutes doing that lol
+
+--
+(alpa) = barelly working, just laid the foundation and testing stuff
+(beta) = still tweaking values and testing mid term gameplay
+if not stated = kinda done, but please feel free to give feedback in the discussion threads about long runs or any improvement
