@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg7"
+   version="1.1"
+   viewBox="0 0 512 512"
+   sodipodi:docname="icons_emotion_paranoia.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.5449219"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="3825"
+     inkscape:window-y="-15"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g
+     id="g1">
+    <path
+       id="IconGraphic"
+       class="st0"
+       d="M256,512c-68.4,0-132.7-26.6-181-75C26.6,388.7,0,324.4,0,256S26.6,123.3,75,75C123.3,26.6,187.6,0,256,0s132.7,26.6,181,75c48.4,48.4,75,112.6,75,181s-26.6,132.7-75,181c-48.4,48.4-112.6,75-181,75h0ZM256,40c-119.1,0-216,96.9-216,216s96.9,216,216,216,216-96.9,216-216S375.1,40,256,40ZM336,342.1c0-11-9-20-20-20h-120c-11,0-20,9-20,20s9,20,20,20h120c11,0,20-9,20-20ZM168,280c-33.1,0-60-26.9-60-60s26.9-60,60-60,60,26.9,60,60-26.9,60-60,60ZM168,200c-11,0-20,9-20,20s9,20,20,20,20-9,20-20-9-20-20-20ZM344,280c-33.1,0-60-26.9-60-60s26.9-60,60-60,60,26.9,60,60-26.9,60-60,60ZM344,200c-11,0-20,9-20,20s9,20,20,20,20-9,20-20-9-20-20-20Z"
+       style="fill:#ffffff" />
+  </g>
+</svg>

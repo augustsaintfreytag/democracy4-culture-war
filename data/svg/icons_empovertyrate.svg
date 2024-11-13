@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Capa_1"
+   enable-background="new 0 0 512 512"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   sodipodi:docname="icons_povertyrate.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.5449219"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="3825"
+     inkscape:window-y="-15"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" />
+  <g
+     id="g3">
+    <circle
+       cx="312"
+       cy="52.581001"
+       r="52.581001"
+       id="circle1"
+       style="fill:#ffffff" />
+    <path
+       d="m 246.062,167 c 3.779,-7.205 5.921,-15.403 5.921,-24.104 0,-28.71 -23.274,-51.983 -51.983,-51.983 -28.709,0 -51.983,23.274 -51.983,51.983 0,8.702 2.145,16.899 5.926,24.104 z"
+       id="path1"
+       style="fill:#ffffff" />
+    <path
+       d="m 144,512 h 224 l 4.9,-49 H 139.1 Z"
+       id="path2"
+       style="fill:#ffffff" />
+    <path
+       d="m 87,197 v 30 h 28.5 l 20.6,206 H 375.9 L 396.5,227 H 425 v -30 z"
+       id="path3"
+       style="fill:#ffffff" />
+  </g>
+</svg>

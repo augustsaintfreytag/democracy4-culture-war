@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="icons_globalism.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="28.359375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="3825"
+     inkscape:window-y="-15"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <g
+     id="g30">
+    <circle
+       cx="32"
+       cy="13.75"
+       r="3.75"
+       id="circle1"
+       style="fill:#ffffff" />
+    <path
+       d="m26 21.5v14.5h12v-14.5c0-2.21-1.79-4-4-4h-4c-2.21 0-4 1.79-4 4z"
+       id="path1"
+       style="fill:#ffffff" />
+    <circle
+       cx="49"
+       cy="24"
+       r="3"
+       id="circle2"
+       style="fill:#ffffff" />
+    <path
+       d="m54 30c0-1.66-1.34-3-3-3h-4c-1.66 0-3 1.34-3 3v6h10z"
+       id="path2"
+       style="fill:#ffffff" />
+    <circle
+       cx="15"
+       cy="24"
+       r="3"
+       id="circle3"
+       style="fill:#ffffff" />
+    <path
+       d="m10 30v6h10v-6c0-1.66-1.34-3-3-3h-4c-1.66 0-3 1.34-3 3z"
+       id="path3"
+       style="fill:#ffffff" />
+    <path
+       d="m10.5 12.53-1.48-1.34c-.46.51-.92 1.04-1.34 1.58l1.57 1.24c.4-.5.82-1 1.25-1.48z"
+       id="path4"
+       style="fill:#ffffff" />
+    <path
+       d="m13.29 9.84-1.29-1.53c-.52.44-1.04.91-1.54 1.39l1.39 1.44c.47-.45.95-.88 1.44-1.3z"
+       id="path5"
+       style="fill:#ffffff" />
+    <path
+       d="m16.41 7.54-1.08-1.69c-.58.37-1.16.76-1.71 1.17l1.19 1.61c.52-.38 1.06-.75 1.6-1.1z"
+       id="path6"
+       style="fill:#ffffff" />
+    <path
+       d="m3.58 26.2-1.96-.4c-.14.68-.25 1.37-.34 2.04l1.98.26c.08-.63.19-1.28.32-1.91z"
+       id="path7"
+       style="fill:#ffffff" />
+    <path
+       d="m60.75 28.18 1.98-.26c-.09-.68-.2-1.37-.34-2.04l-1.96.39c.12.63.23 1.27.32 1.91z"
+       id="path8"
+       style="fill:#ffffff" />
+    <path
+       d="m4.6 22.46-1.89-.66c-.22.65-.43 1.31-.61 1.98l1.93.53c.17-.62.37-1.25.58-1.85z"
+       id="path9"
+       style="fill:#ffffff" />
+    <path
+       d="m60.74 35.91 1.98.27c.09-.68.17-1.38.21-2.07l-2-.13c-.04.64-.11 1.29-.2 1.93z"
+       id="path10"
+       style="fill:#ffffff" />
+    <path
+       d="m8.1 15.57-1.65-1.13c-.39.56-.76 1.15-1.12 1.74l1.72 1.02c.33-.56.68-1.11 1.04-1.63z"
+       id="path11"
+       style="fill:#ffffff" />
+    <path
+       d="m19.82 5.68-.84-1.81c-.63.29-1.25.61-1.85.94l.96 1.75c.56-.31 1.14-.6 1.73-.88z"
+       id="path12"
+       style="fill:#ffffff" />
+    <path
+       d="m60.94 30.11c.04.63.06 1.26.06 1.89v.05l2-.05c0-.68-.02-1.35-.06-2.02z"
+       id="path13"
+       style="fill:#ffffff" />
+    <path
+       d="m53.58 9.74c-.49-.48-1.01-.95-1.54-1.39l-1.29 1.53c.49.42.97.85 1.44 1.3z"
+       id="path14"
+       style="fill:#ffffff" />
+    <path
+       d="m50.42 7.06c-.55-.41-1.12-.8-1.71-1.17l-1.08 1.68c.54.35 1.08.72 1.6 1.1z"
+       id="path15"
+       style="fill:#ffffff" />
+    <path
+       d="m58.72 20.71 1.84-.78c-.27-.64-.56-1.27-.87-1.88l-1.79.9c.29.57.56 1.17.82 1.76z"
+       id="path16"
+       style="fill:#ffffff" />
+    <path
+       d="m54.78 14.05 1.57-1.24c-.42-.54-.87-1.07-1.34-1.58l-1.48 1.34c.43.48.85.98 1.25 1.48z"
+       id="path17"
+       style="fill:#ffffff" />
+    <path
+       d="m46.93 4.83c-.61-.33-1.23-.65-1.85-.94l-.85 1.81c.58.27 1.16.57 1.73.88l.96-1.75z"
+       id="path18"
+       style="fill:#ffffff" />
+    <path
+       d="m56.97 17.25 1.72-1.02c-.35-.59-.72-1.18-1.12-1.75l-1.65 1.13c.37.53.72 1.08 1.04 1.63z"
+       id="path19"
+       style="fill:#ffffff" />
+    <path
+       d="m59.99 24.38 1.93-.52c-.18-.66-.38-1.33-.61-1.98l-1.89.65c.21.61.4 1.24.57 1.85z"
+       id="path20"
+       style="fill:#ffffff" />
+    <path
+       d="m31.07 3.01-.06-2c-.69.02-1.38.07-2.07.13l.2 1.99c.64-.06 1.28-.1 1.94-.13z"
+       id="path21"
+       style="fill:#ffffff" />
+    <path
+       d="m27.21 3.39-.33-1.97c-.68.11-1.36.25-2.03.41l.46 1.95c.62-.15 1.26-.28 1.9-.38z"
+       id="path22"
+       style="fill:#ffffff" />
+    <path
+       d="m23.44 4.28-.59-1.91c-.65.2-1.31.43-1.96.68l.71 1.87c.61-.23 1.22-.45 1.84-.63z"
+       id="path23"
+       style="fill:#ffffff" />
+    <path
+       d="m35.14 1.16c-.68-.07-1.37-.11-2.06-.14l-.07 2c.65.02 1.3.07 1.94.13l.2-1.99z"
+       id="path24"
+       style="fill:#ffffff" />
+    <path
+       d="m39.22 1.85c-.67-.16-1.35-.3-2.03-.41l-.33 1.97c.64.11 1.28.24 1.9.39z"
+       id="path25"
+       style="fill:#ffffff" />
+    <path
+       d="m43.18 3.08c-.64-.25-1.3-.48-1.96-.68l-.59 1.91c.62.19 1.23.41 1.83.64z"
+       id="path26"
+       style="fill:#ffffff" />
+    <path
+       d="m6.12 18.9-1.78-.91c-.31.61-.61 1.25-.88 1.88l1.84.78c.25-.59.52-1.18.82-1.75z"
+       id="path27"
+       style="fill:#ffffff" />
+    <path
+       d="m3.07 30.04-2-.13c-.04.68-.07 1.38-.07 2.07h2c0-.65.02-1.3.07-1.94z"
+       id="path28"
+       style="fill:#ffffff" />
+    <path
+       d="m3.25 35.84c-.09-.63-.15-1.28-.19-1.93l-2 .13c.04.69.11 1.39.21 2.06l1.98-.27z"
+       id="path29"
+       style="fill:#ffffff" />
+    <path
+       d="m61.95 38.38c-.19-.24-.48-.38-.79-.38h-58.32c-.31 0-.59.14-.79.38-.19.24-.26.55-.19.85 3.33 13.99 15.72 23.77 30.13 23.77s26.8-9.77 30.13-23.77c.07-.3 0-.61-.19-.85zm-5.3 8.89-11.2-1.59c-.8-.12-1.56.43-1.69 1.22l-1.06 6.3c-.12.74-.74 1.26-1.47 1.26h-6.84c-.54 0-1.06.3-1.32.77l-3.16 5.68c-5.55-.39-10.71-2.34-15-5.46l-.75-4.55c-.1-.55.13-1.1.57-1.44l6.47-1.86s1.6-2.4 1.6-2.4c.7-.71.51-1.94-.4-2.4l-4.54-2.8h42.01c-.74 2.61-1.84 5.04-3.22 7.27z"
+       id="path30"
+       style="fill:#ffffff" />
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   enable-background="new 0 0 512 512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   sodipodi:docname="icons_narcissism_alt.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.5449219"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="7665"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <g
+     id="g1">
+    <path
+       clip-rule="evenodd"
+       d="m207.27 337.7c-4.14 13.34-12.8 24.7-24.19 32.28h3.2c30.97 0 57.07 21.2 64.59 49.84 1.88.06 3.77.09 5.65.09 28.91 0 56.23-6.9 80.43-19.12v-18.13c0-26.48-21.54-48.02-48.02-48.02h-64.83c-5.8 0-11.45 1.03-16.83 3.06zm240.26-96.8c0-105.33-85.69-191.02-191.01-191.02-105.33 0-191.02 85.69-191.02 191.02 0 34.97 9.54 69.16 27.58 98.91 4.37 12.42 12.7 22.99 23.48 30.17h-3.2c-5.98 0-11.78.81-17.3 2.29-30.28-36.96-46.92-83.45-46.92-131.37 0-114.35 93.03-207.38 207.38-207.38 114.34 0 207.39 93.03 207.39 207.38 0 114.34-93.05 207.37-207.39 207.37-1.16 0-2.31-.02-3.47-.04v-11.48c0-1.64-.08-3.27-.2-4.89 1.22.02 2.45.05 3.67.05 105.32 0 191.01-85.69 191.01-191.01zm-261.25 141.08c30.2 0 54.77 24.57 54.77 54.77v54.77h-182.45v-54.77c0-30.2 24.56-54.77 54.76-54.77zm11.68-62.07c0 26.55-21.59 48.14-48.14 48.14-26.54 0-48.13-21.59-48.13-48.14 0-26.54 21.59-48.14 48.13-48.14 26.55 0 48.14 21.6 48.14 48.14zm16.43-41.12c0 23.23 18.9 42.13 42.13 42.13 23.22 0 42.12-18.9 42.12-42.13s-18.9-42.13-42.12-42.13c-23.23 0-42.13 18.9-42.13 42.13z"
+       fill-rule="evenodd"
+       id="path1"
+       style="fill:#ffffff" />
+  </g>
+</svg>

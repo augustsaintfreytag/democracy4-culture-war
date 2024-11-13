@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_3"
+   enable-background="new 0 0 60 60"
+   height="512"
+   viewBox="0 0 60 60"
+   width="512"
+   version="1.1"
+   sodipodi:docname="sit_icons_coldwartrauma.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.5449219"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="7665"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_3" />
+  <g
+     id="g7">
+    <path
+       d="m16 42v-35.97c-3.37.36-6 3.21-6 6.67v31.41c1.27-1.3 3.04-2.11 5-2.11z"
+       id="path1"
+       style="fill:#ffffff" />
+    <path
+       d="m50 7c0-.55-.45-1-1-1h-31v36h31c.35 0 .68.07 1 .18zm-9 28h-16c-2.76 0-5-2.24-5-5s2.24-5 5-5v-1.67c0-1.29 1.04-2.33 2.33-2.33h1.5l14.85-4.95c.53-.17 1.09.11 1.27.63.17.53-.11 1.09-.63 1.27l-11.82 3.94c.32.4.5.89.5 1.44v1.67h8c2.76 0 5 2.24 5 5s-2.24 5-5 5z"
+       id="path2"
+       style="fill:#ffffff" />
+    <path
+       d="m26 29h-1c-.55 0-1 .45-1 1s.45 1 1 1h1c.55 0 1-.45 1-1s-.45-1-1-1z"
+       id="path3"
+       style="fill:#ffffff" />
+    <path
+       d="m31 29h-1c-.55 0-1 .45-1 1s.45 1 1 1h1c.55 0 1-.45 1-1s-.45-1-1-1z"
+       id="path4"
+       style="fill:#ffffff" />
+    <path
+       d="m36 29h-1c-.55 0-1 .45-1 1s.45 1 1 1h1c.55 0 1-.45 1-1s-.45-1-1-1z"
+       id="path5"
+       style="fill:#ffffff" />
+    <path
+       d="m41 29h-1c-.55 0-1 .45-1 1s.45 1 1 1h1c.55 0 1-.45 1-1s-.45-1-1-1z"
+       id="path6"
+       style="fill:#ffffff" />
+    <path
+       d="m49.6 45.8c.34-.26.48-.71.35-1.12-.14-.4-.52-.68-.95-.68h-34c-2.76 0-5 2.24-5 5s2.24 5 5 5h34c.43 0 .81-.28.95-.68.13-.41-.01-.86-.35-1.12-1.56-1.17-1.6-3-1.6-3.2 0-1.94 1.44-3.08 1.6-3.2z"
+       id="path7"
+       style="fill:#ffffff" />
+  </g>
+</svg>
