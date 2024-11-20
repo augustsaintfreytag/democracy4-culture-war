@@ -2,3 +2,6 @@
 EXAMPLE,junkfood,PERCENTAGE,1,90
 EXAMPLE,tasers,DISCRETE,0,
 ,,,,
+#,age,DISCRETE,11,
+#,extradite,DISCRETE,3,
+,,,,
